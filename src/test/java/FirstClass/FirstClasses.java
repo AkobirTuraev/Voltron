@@ -6,6 +6,7 @@ public class FirstClasses {
         System.out.println("hello world");
         System.out.println("test");
         System.out.println("yaxshimisiz?");
+        //hgfjgf
     }
 }
 //commit by Tural testgit
