@@ -3,9 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="46a23034-7ee5-475b-82c3-d2b0d4ec5f2d" name="Default Changelist" comment="Made Utilites Package, Runner package">
       <change afterPath="$PROJECT_DIR$/src/test/java/com/Odoo/Utilities/BrowserUtils.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/Odoo/Utilities/Driver.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/resources/feature/Login.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/Odoo/Utilities/Driver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/Odoo/Utilities/Driver.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -96,12 +96,20 @@
       <option name="project" value="LOCAL" />
       <updated>1577126452697</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="updated Driver and workspace.xml">
+      <created>1578600693317</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1578600693317</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Made Utilites Package, Runner package" />
-    <option name="LAST_COMMIT_MESSAGE" value="Made Utilites Package, Runner package" />
+    <MESSAGE value="updated Driver and workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="updated Driver and workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
     <state x="450" y="149" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1577124900530">
@@ -140,10 +148,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="362" y="147" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1578600088286" />
-    <state x="579" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578600659552">
+    <state x="579" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578600882447">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="579" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578600659552" />
+    <state x="579" y="330" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.824@0.0.1536.824" timestamp="1578600882447" />
     <state x="203" y="115" key="new project wizard" timestamp="1577128073800">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
